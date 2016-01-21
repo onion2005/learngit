@@ -8,3 +8,5 @@ This is another test for branch
 Branch test for dev.........
 
 Creating a new branch is quick AND simple.
+
+Test on fast forward
