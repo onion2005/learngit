@@ -6,3 +6,5 @@ creating a new branch is quick.
 
 This is another test for branch
 Branch test for dev.........
+
+Creating a new branch is quick & simple.
