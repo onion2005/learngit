@@ -10,3 +10,5 @@ Branch test for dev.........
 Creating a new branch is quick AND simple.
 
 Test on fast forward
+
+Test on Fix bug branch.
