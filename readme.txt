@@ -12,3 +12,5 @@ Creating a new branch is quick AND simple.
 Test on fast forward
 
 Test on Fix bug branch.
+
+Fix Bug 101 Branch
